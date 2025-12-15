@@ -35,7 +35,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 **CS50: Computer Science**  
 *Harvard University*  
-[View Certificate →]([https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf])
+[View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
 
 </div>
 
