@@ -52,8 +52,13 @@ This repository hosts my professional certification portfolio with clickable bad
 
 **CompTIA A+ ce** | **CompTIA Network+ ce** | **CompTIA Security+ ce** | **CompTIA IT Operations Specialist**  
 *Certification ID: COMP001022773409*  
-*Valid Through: November 17, 2028*  
-[Verify All CompTIA Certifications →](http://verify.CompTIA.org)
+*Valid Through: November 17, 2028*
+
+**Verification Codes:**  
+- **A+ Code:** `68aee1916dc4431a868a4d495470b667`  
+- **Network+ Code:** `48838672f4d945f9ad1abd618fae37d1`
+
+[Verify at CompTIA.org →](http://verify.CompTIA.org)
 
 </div>
 
