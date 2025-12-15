@@ -29,13 +29,13 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🎓 Computer Science
 
-<a href="https://cs50.harvard.edu/certificates/a0d58051-a8b3-4e10-8ffe-6444a9accf90" target="_blank">
+<a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1200px-Harvard_University_coat_of_arms.svg.png" alt="Harvard University" width="120"/>
 </a>
 
 **CS50: Computer Science**  
 *Harvard University*  
-[Verify Certificate →](https://cs50.harvard.edu/certificates/a0d58051-a8b3-4e10-8ffe-6444a9accf90)
+[View Certificate →](https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf)
 
 </div>
 
@@ -90,7 +90,8 @@ This repository hosts my professional certification portfolio with clickable bad
 
 **Linux Essentials**  
 *Linux Professional Institute (LPI)*  
-[Verify Certificate →](https://cs.lpi.org/caf/Xamman/certification)
+**Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`  
+[Verify at LPI.org →](https://cs.lpi.org/caf/Xamman/certification)
 
 </div>
 
