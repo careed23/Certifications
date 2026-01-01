@@ -137,7 +137,6 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 🔗 Links
 
-**Live Portfolio:** [careed23.github.io/certifications](https://careed23.github.io/certifications/)
 **GitHub:** [github.com/careed23](https://github.com/careed23)
 **LinkedIn:** [linkedin.com/in/colten-reed-8395b6389](https://www.linkedin.com/in/colten-reed-8395b6389)
 **Email:** tat2creed@gmail.com
