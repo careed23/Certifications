@@ -155,6 +155,5 @@ This portfolio is for professional verification purposes. All certification badg
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by Colten Reed
-
+Made with 🧠 by Creed
 </div>
