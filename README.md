@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Professional Certifications Portfolio
+# 🎓 Professional Certifications Portfolio 🎓
 
 <div align="center">
 
