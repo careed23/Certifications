@@ -46,7 +46,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🔧 CompTIA
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CompTIA_logo.svg/2560px-CompTIA_logo.svg.png" alt="CompTIA" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/CompTIA_logo.svg" alt="CompTIA" height="50"/>
 <br><br>
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
@@ -103,7 +103,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🐧 Linux Professional Institute
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lpi_logo.png/1200px-Lpi_logo.png" alt="LPI" height="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Lpi_logo.png" alt="LPI" height="80"/>
 <br><br>
 
 [![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)](https://cs.lpi.org/caf/Xamman/certification)
