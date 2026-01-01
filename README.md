@@ -16,8 +16,7 @@ Interactive certification portfolio showcasing verified professional credentials
 
 ## 👨‍💻 About
 
-**Colten A. Reed**  
-IT Professional | System Administrator | Cloud & Security Specialist
+**Colten A. Reed** IT Professional | System Administrator | Cloud & Security Specialist
 
 This repository hosts my professional certification portfolio with clickable badges that link directly to official verification pages.
 
@@ -31,13 +30,11 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🎓 Computer Science
 
-<a href="[https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf]" target="_blank">
+<a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1200px-Harvard_University_coat_of_arms.svg.png" alt="Harvard University" width="120"/>
 </a>
 
-**CS50: Computer Science**  
-*Harvard University*  
-[View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
+**CS50: Computer Science** *Harvard University* [View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
 
 </div>
 
@@ -50,15 +47,18 @@ This repository hosts my professional certification portfolio with clickable bad
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
+
 ![CompTIA CIOS](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist-F39C12?style=for-the-badge&logo=comptia&logoColor=white)
+<img src="csis-badge.png" height="28" alt="CompTIA CSIS"/>
 
-**CompTIA A+ ce** | **CompTIA Network+ ce** | **CompTIA Security+ ce** | **CompTIA IT Operations Specialist**  
-*Certification ID: COMP001022773409*  
-*Valid Through: November 17, 2028*
+**CompTIA A+ ce** | **CompTIA Network+ ce** | **CompTIA Security+ ce** **IT Operations Specialist (CIOS)** | [cite_start]**Secure Infrastructure Specialist (CSIS)** [cite: 3, 5]
 
-**Verification Codes:**  
-- **A+ Code:** `68aee1916dc4431a868a4d495470b667`  
+*Certification ID: COMP001022773409* *Valid Through: November 17, 2028*
+
+**Verification Codes:** - **A+ Code:** `68aee1916dc4431a868a4d495470b667`  
 - **Network+ Code:** `48838672f4d945f9ad1abd618fae37d1`
+- [cite_start]**Security+ Code:** `8d5686fba80b45a9ab2db7966bba8d1b` [cite: 4]
+- [cite_start]**CSIS Code:** `COMP001022773409` [cite: 3]
 
 [Verify at CompTIA.org →](http://verify.CompTIA.org)
 
@@ -77,8 +77,20 @@ This repository hosts my professional certification portfolio with clickable bad
   <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="140"/>
 </a>
 
-**Microsoft Azure Fundamentals (AZ-900)** | **Microsoft Azure AI Fundamentals (AI-900)**  
-[Verify AZ-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f) | [Verify AI-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
+**Microsoft Azure Fundamentals (AZ-900)** | **Microsoft Azure AI Fundamentals (AI-900)** [Verify AZ-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f) | [Verify AI-900 →](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗄️ Database Certifications
+
+<img src="oracle-associate.png" width="140" alt="Oracle Certified Associate"/>
+
+[cite_start]**Oracle Certified Associate (OCA)** [cite: 7, 8]  
+[cite_start]*Database Fundamentals & Administration* **Issued:** December 29, 2025 [cite: 9]
 
 </div>
 
@@ -90,9 +102,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)
 
-**Linux Essentials**  
-*Linux Professional Institute (LPI)*  
-**Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`  
+**Linux Essentials** *Linux Professional Institute (LPI)* **Verification Code:** `6e0f27ba-4c99-4cc3-b805-4d9e071118fc`  
 [Verify at LPI.org →](https://cs.lpi.org/caf/Xamman/certification)
 
 </div>
