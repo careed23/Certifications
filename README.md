@@ -28,10 +28,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ## 📜 Certifications
 
-### 🎓 Computer Science
-
-![Harvard](https://img.shields.io/badge/Harvard%20University-CS50%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)
-<br><br>
+### 🎓 Harvard University
 
 [![CS50](https://img.shields.io/badge/Harvard-CS50%3A%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
 
@@ -44,9 +41,6 @@ This repository hosts my professional certification portfolio with clickable bad
 <div align="center">
 
 ### 🔧 CompTIA
-
-![CompTIA](https://img.shields.io/badge/CompTIA-Official%20Certifications-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
-<br><br>
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20ce-C8102E?style=for-the-badge&logo=comptia&logoColor=white)
@@ -71,9 +65,6 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### ☁️ Microsoft Azure
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Certifications-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-<br><br>
-
 [![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f)
 [![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/32e37594ad73ece0)
 
@@ -87,9 +78,6 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🗄️ Oracle
 
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-<br><br>
-
 ![Oracle Certified Associate](https://img.shields.io/badge/Oracle-Certified%20Associate%20(OCA)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Issued:** December 29, 2025
@@ -101,9 +89,6 @@ This repository hosts my professional certification portfolio with clickable bad
 <div align="center">
 
 ### 🐧 Linux Professional Institute
-
-![LPI](https://img.shields.io/badge/Linux%20Professional%20Institute-LPI-0099CC?style=for-the-badge&logo=linux&logoColor=white)
-<br><br>
 
 [![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-0099CC?style=for-the-badge&logo=linux&logoColor=white)](https://cs.lpi.org/caf/Xamman/certification)
 
