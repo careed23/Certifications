@@ -19,9 +19,8 @@
 
 <div align="center">
 
-## 👨‍💻 About
 
-**Colten A. Reed** IT Professional | System Administrator | Cloud & Security Specialist
+## **Colten A. Reed** IT Professional | System Administrator | Cloud & Security Specialist
 
 This repository hosts my professional certification portfolio with clickable badges that link directly to official verification pages.
 
