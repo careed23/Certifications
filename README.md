@@ -6,6 +6,7 @@
 
 ![MyComputerCareer](https://img.shields.io/badge/MyComputerCareer-Information%20Technology-d92b2b?style=for-the-badge)
 ![Harvard University](https://img.shields.io/badge/Harvard%20University-School%20of%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Project%20Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 <br>
 
@@ -41,6 +42,24 @@ This repository hosts my professional certification portfolio with clickable bad
 
 **CS50: Computer Science**
 [View Certificate →](https://github.com/careed23/Certification/blob/main/CS50-Certificate.pdf)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://coursera.org/verify/4LM72C4JTGZJ" target="_blank">
+  <img src="google.png" height="110" alt="Google Project Management Professional"/>
+</a>
+
+**Google Project Management Professional Certificate**
+*Foundations of Project Management, Project Initiation, Planning, and Execution*
+
+**Credential ID:** `4LM72C4JTGZJ`  
+**Issued:** 2026
+
+[Verify via Coursera →](https://coursera.org/verify/4LM72C4JTGZJ)
 
 </div>
 
@@ -127,7 +146,7 @@ This repository hosts my professional certification portfolio with clickable bad
 **Security & Compliance:** Network Security, Firewall Management, IAM, MFA
 **Operating Systems:** Windows Server, Ubuntu/Linux, macOS
 **Infrastructure:** Active Directory, System Administration, Network Administration
-**Automation & Scripting:** Python, YAML, Jinja2, GitOps
+**Automation & Scripting:** Python, YAML, Jinja2, GitOps, Agile Methodology
 
 </div>
 
