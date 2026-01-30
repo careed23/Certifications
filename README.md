@@ -21,7 +21,7 @@
 
 
 ## **Colten A. Reed** 
-IT Specialist | Cloud Administrator | Cloud & Security Architect
+## IT Specialist | Cloud Administrator | Cloud & Security Architect
 
 This repository hosts my professional certification portfolio with clickable badges that link directly to official verification pages.
 
