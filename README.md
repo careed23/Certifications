@@ -12,7 +12,6 @@
 
 [![Portfolio](https://img.shields.io/badge/View-Live%20Portfolio-purple?style=for-the-badge)](https://careed23.github.io/certifications/)
 
-Interactive certification portfolio showcasing verified professional credentials in IT, Cloud Computing, Cybersecurity, and Computer Science.
 
 </div>
 
