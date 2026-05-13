@@ -84,14 +84,14 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🎓 Kennesaw State University — Six Sigma Black Belt
 
-<a href="googleblack.png" target="_blank">
-  <img src="googleblack.png" height="110" alt="The Measure Phase"/>
+<a href="googleblack.jpg" target="_blank">
+  <img src="googleblack.jpg" height="110" alt="The Measure Phase"/>
 </a>
-<a href="googleback1.png" target="_blank">
-  <img src="googleback1.png" height="110" alt="The Define Phase"/>
+<a href="googleblack1.jpg" target="_blank">
+  <img src="googleblack1.jpg" height="110" alt="The Define Phase"/>
 </a>
-<a href="googleblack3.png" target="_blank">
-  <img src="googleblack3.png" height="110" alt="Organization Planning and Development"/>
+<a href="googleblack3.jpg" target="_blank">
+  <img src="googleblack3.jpg" height="110" alt="Organization Planning and Development"/>
 </a>
 
 **Six Sigma Black Belt Coursework**
