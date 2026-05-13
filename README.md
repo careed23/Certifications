@@ -7,6 +7,12 @@
 ![MyComputerCareer](https://img.shields.io/badge/MyComputerCareer-Information%20Technology-d92b2b?style=for-the-badge)
 ![Harvard University](https://img.shields.io/badge/Harvard%20University-School%20of%20Computer%20Science-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-Project%20Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Calyptus AI](https://img.shields.io/badge/Calyptus%20AI-Fluent%20Tech%20Professional-00ADD8?style=for-the-badge&logo=ai&logoColor=white)
+![Kennesaw State University](https://img.shields.io/badge/Kennesaw%20State%20University-Six%20Sigma%20Black%20Belt-FFD700?style=for-the-badge&logo=university&logoColor=black)
+![CompTIA](https://img.shields.io/badge/CompTIA-Certifications-FF6B35?style=for-the-badge&logo=comp-tia&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux Professional Institute](https://img.shields.io/badge/Linux%20Professional%20Institute-Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
