@@ -53,9 +53,8 @@ This repository hosts my professional certification portfolio with clickable bad
 <a href="https://github.com/careed23/certifications/blob/main/itsa.pdf" target="_blank">
   <img src="itsa.png" height="110" alt="MyComputerCareer Diploma"/>
 </a>
-<a href="pro.png" target="_blank">
-  <img src="pro.png" height="110" alt="MyComputerCareer Professional Accolade"/>
-</a>
+<br>
+[View Professional Accolade →](https://github.com/careed23/certifications/blob/main/pro.pdf)
 
 **MyComputerCareer IT Specialist Diploma & Professional Accolade**
 *Information Technology training and credentialing from MyComputerCareer*
