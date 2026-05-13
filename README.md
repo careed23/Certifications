@@ -26,7 +26,7 @@
 <div align="center">
 
 
-## **Colten A. Reed** 
+# **Colten A. Reed** 
 ## IT Specialist | Cloud Administrator | Cloud & Security Architect
 
 This repository hosts my professional certification portfolio with clickable badges that link directly to official verification pages.
@@ -37,9 +37,9 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-## 📜 Certifications
+# 📜 Certifications
 
-### 🎓 Harvard University
+## 🎓 Harvard University
 
 <a href="https://github.com/careed23/certifications/blob/main/CS50-Certificate.pdf" target="_blank">
   <img src="harvard.png" height="110" alt="Harvard CS50"/>
@@ -54,7 +54,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🎓 MyComputerCareer
+## 🎓 MyComputerCareer
 
 <a href="https://github.com/careed23/certifications/blob/main/itsa.pdf" target="_blank">
   <img src="itsa.png" height="110" alt="MyComputerCareer Diploma"/>
@@ -74,7 +74,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🤖 Calyptus AI Fluent Tech Professional
+## 🤖 Calyptus AI Fluent Tech Professional
 
 <a href="ai.png" target="_blank">
   <img src="ai.png" height="110" alt="Calyptus AI Fluent Tech Professional"/>
@@ -89,7 +89,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🎓 Kennesaw State University — Six Sigma Black Belt
+## 🎓 Kennesaw State University — Six Sigma Black Belt
 
 <a href="googleblack.jpg" target="_blank">
   <img src="googleblack.jpg" height="110" alt="The Measure Phase"/>
@@ -128,7 +128,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🔧 CompTIA
+## 🔧 CompTIA
 
 <img src="A+.png" height="100" alt="A+"/>
 <img src="Network+.png" height="100" alt="Network+"/>
@@ -153,7 +153,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### ☁️ Microsoft Azure
+## ☁️ Microsoft Azure
 
 <a href="https://learn.microsoft.com/en-us/users/coltenreed-3632/credentials/a1dcb2ddadd4594f" target="_blank">
   <img src="AZ-900.png" height="100" alt="AZ-900"/>
@@ -171,7 +171,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🗄️ Oracle
+## 🗄️ Oracle
 
 <img src="oracle.png" height="110" alt="Oracle Certified Associate"/>
 
@@ -185,7 +185,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### 🐧 Linux Professional Institute
+## 🐧 Linux Professional Institute
 
 <a href="https://cs.lpi.org/caf/Xamman/certification" target="_blank">
   <img src="linux.png" height="100" alt="Linux Essentials"/>
