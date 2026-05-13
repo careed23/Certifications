@@ -114,7 +114,7 @@ This repository hosts my professional certification portfolio with clickable bad
   <img src="google.png" height="110" alt="Google Project Management Professional"/>
 </a>
 
-**Google Project Management Professional Certificate**
+## **Google Project Management Professional Certificate**
 *Foundations of Project Management, Project Initiation, Planning, and Execution*
 
 **Credential ID:** `4LM72C4JTGZJ`  
