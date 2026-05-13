@@ -67,6 +67,42 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
+### 🤖 Calyptus AI Fluent Tech Professional
+
+<a href="ai.png" target="_blank">
+  <img src="ai.png" height="110" alt="Calyptus AI Fluent Tech Professional"/>
+</a>
+
+**Calyptus AI Fluent Tech Professional**
+*AI fluency credential from Calyptus AI*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎓 Kennesaw State University — Six Sigma Black Belt
+
+<a href="googleblack.png" target="_blank">
+  <img src="googleblack.png" height="110" alt="The Measure Phase"/>
+</a>
+<a href="googleback1.png" target="_blank">
+  <img src="googleback1.png" height="110" alt="The Define Phase"/>
+</a>
+<a href="googleblack3.png" target="_blank">
+  <img src="googleblack3.png" height="110" alt="Organization Planning and Development"/>
+</a>
+
+**Six Sigma Black Belt Coursework**
+*The Measure Phase, The Define Phase, Organization Planning and Development*
+
+</div>
+
+---
+
+<div align="center">
+
 <a href="https://coursera.org/verify/4LM72C4JTGZJ" target="_blank">
   <img src="google.png" height="110" alt="Google Project Management Professional"/>
 </a>
