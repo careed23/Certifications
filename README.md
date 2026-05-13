@@ -197,24 +197,24 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ### 🛠️ Technical Expertise
 
-**Cloud Architecture & Infrastructure**
+## **Cloud Architecture & Infrastructure**
 *   **Platforms:** Oracle Cloud Infrastructure (OCI), Amazon Web Services (AWS) 
 *   **Automation & IaC:** Terraform, Infrastructure-as-Code (IaC) methodology, System Automation, Self-Healing Systems
 *   **Networking & Security:** Identity and Access Management (IAM), Cloud Networking, Core Cloud Services
 
-**Programming & Scripting**
+## **Programming & Scripting**
 *   **Languages:** Python, PowerShell, C, SQL, HTML/CSS, JavaScript, YAML
 *   **Computer Science Fundamentals:** Data Structures, Algorithms, Memory Management
 
-**Artificial Intelligence & Machine Learning**
+## **Artificial Intelligence & Machine Learning**
 *   **GenAI Integration:** Gemini 3.1 Pro API, Claude, AWS Bedrock
 *   **AI-Assisted Engineering:** Custom Bot Development, GitHub Copilot, Prompt Engineering, Workflow Optimization
 
-**Project Management & Process Improvement**
+## **Project Management & Process Improvement**
 *   **Methodologies:** Agile, Scrum, Six Sigma (DMAIC, SIPOC, FMEA)
 *   **Project Execution:** Strategic Planning, Risk Management, Stakeholder Communication, Documentation-as-Code (Markdown, Mermaid)
 
-**IT Operations & System Administration**
+## **IT Operations & System Administration**
 *   Hardware & Software Troubleshooting
 *   Operating Systems Management
 *   Network Fundamentals & Help Desk Support
