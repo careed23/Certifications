@@ -193,7 +193,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🛠️ Technical Expertise
 
