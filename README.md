@@ -59,11 +59,14 @@ This repository hosts my professional certification portfolio with clickable bad
 <a href="https://github.com/careed23/certifications/blob/main/itsa.pdf" target="_blank">
   <img src="itsa.png" height="110" alt="MyComputerCareer Diploma"/>
 </a>
+<a href="OA.png" target="_blank">
+  <img src="OA.png" height="110" alt="MyComputerCareer Outstanding Achievement Award"/>
+</a>
 <a href="pathway.png" target="_blank">
   <img src="pathway.png" height="110" alt="MyComputerCareer Career Pathways Badge"/>
 </a>
 
-**MyComputerCareer Information Technology Security and Administration Program Diploma & Career Pathways Badge**
+**MyComputerCareer Information Technology Security and Administration Program Diploma, Outstanding Achievement Award, & Career Pathways Badge**
 *Information Technology training and credentialing from MyComputerCareer*
 
 [View Diploma →](https://github.com/careed23/certifications/blob/main/itsa.pdf)
