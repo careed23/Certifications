@@ -67,8 +67,8 @@ This repository hosts my professional certification portfolio with clickable bad
 </a>
 
 **MyComputerCareer Information Technology Security and Administration Program Diploma
-Outstanding Achievement Award
-Career Pathways Badge**
+## Outstanding Achievement Award
+## Career Pathways Badge**
 *Information Technology training and credentialing from MyComputerCareer*
 
 [View Diploma →](https://github.com/careed23/certifications/blob/main/itsa.pdf)
