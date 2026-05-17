@@ -115,8 +115,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-### <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/af43d359-bef4-4f45-a1fe-141af3e18729" />
-Google Project Management Professional Certificate
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/af43d359-bef4-4f45-a1fe-141af3e18729" />Google Project Management Professional Certificate
 
 <a href="https://coursera.org/verify/4LM72C4JTGZJ" target="_blank">
   <img src="google.png" height="110" alt="Google Project Management Professional"/>
