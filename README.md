@@ -115,7 +115,7 @@ This repository hosts my professional certification portfolio with clickable bad
 
 <div align="center">
 
-**Google Project Management Professional Certificate**
+### Google Project Management Professional Certificate
 
 <a href="https://coursera.org/verify/4LM72C4JTGZJ" target="_blank">
   <img src="google.png" height="110" alt="Google Project Management Professional"/>
