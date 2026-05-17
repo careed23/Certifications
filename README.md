@@ -66,7 +66,7 @@ This repository hosts my professional certification portfolio with clickable bad
   <img src="pathway.png" height="110" alt="MyComputerCareer Career Pathways Badge"/>
 </a>
 
-**MyComputerCareer Information Technology Security and Administration Program Diploma
+## MyComputerCareer Information Technology Security and Administration Program Diploma
 ## Outstanding Achievement Award
 ## Career Pathways Badge**
 *Information Technology training and credentialing from MyComputerCareer*
